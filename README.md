@@ -20,10 +20,10 @@
 ## 公众号文章目录
 
 - [深度学习](https://github.com/ccc013/AI_algorithm_notes#深度学习)
-- 机器学习
-- 论文笔记
-- 数学
-- leetcode 练习
+- [机器学习](https://github.com/ccc013/AI_algorithm_notes#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+- [论文笔记](https://github.com/ccc013/AI_algorithm_notes#%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0)
+- [数学](https://github.com/ccc013/AI_algorithm_notes#%E6%95%B0%E5%AD%A6)
+- [leetcode 练习](https://github.com/ccc013/AI_algorithm_notes#leetcode-%E7%BB%83%E4%B9%A0)
 
 
 
@@ -36,11 +36,15 @@
 
 
 
+[返回文章目录]((https://github.com/ccc013/AI_algorithm_notes#公众号文章目录))
+
 ## 机器学习
 
 - [06.机器学习基础--基本的概念](http://mp.weixin.qq.com/s?__biz=MzkwMzEyNDgyMA==&mid=2247483807&idx=1&sn=d9138985575fc1186c8991d65d341237&chksm=c09a43a4f7edcab25aa47b841cfed83c7a7bfec4831de2419cf7869b6c0acb3db736365f6019&token=1492400943&lang=zh_CN#rd)
 
 
+
+[返回文章目录]((https://github.com/ccc013/AI_algorithm_notes#公众号文章目录))
 
 ## 论文笔记
 
@@ -51,7 +55,7 @@
 
 
 
-
+[返回文章目录]((https://github.com/ccc013/AI_algorithm_notes#公众号文章目录))
 
 ## 数学
 
@@ -61,6 +65,12 @@
 
 
 
+[返回文章目录]((https://github.com/ccc013/AI_algorithm_notes#公众号文章目录))
+
 ## leetcode 练习
 
 - [07.leetcode 练习--反转链表](http://mp.weixin.qq.com/s?__biz=MzkwMzEyNDgyMA==&mid=2247483855&idx=1&sn=897d170eb383243fc96c4486af96917b&chksm=c09a43f4f7edcae2ed0ecd07f818532c2534a18ab9351aec43a3ada0ac406f27074b8179e08a&token=1492400943&lang=zh_CN#rd)
+
+
+
+[返回文章目录]((https://github.com/ccc013/AI_algorithm_notes#公众号文章目录))
