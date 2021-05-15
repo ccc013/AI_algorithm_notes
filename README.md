@@ -1,6 +1,4 @@
 # AI_algorithm_notes
-
-
 公众号：**AI 算法笔记**
 
 ![](https://github.com/ccc013/AI_algorithm_notes/blob/main/qrcode_for_AI_Notes2.png)
@@ -36,7 +34,7 @@
 
 
 
-[返回文章目录]((https://github.com/ccc013/AI_algorithm_notes#公众号文章目录))
+[返回文章目录](https://github.com/ccc013/AI_algorithm_notes#公众号文章目录)
 
 ## 机器学习
 
@@ -44,7 +42,7 @@
 
 
 
-[返回文章目录]((https://github.com/ccc013/AI_algorithm_notes#公众号文章目录))
+[返回文章目录](https://github.com/ccc013/AI_algorithm_notes#公众号文章目录)
 
 ## 论文笔记
 
@@ -55,7 +53,7 @@
 
 
 
-[返回文章目录]((https://github.com/ccc013/AI_algorithm_notes#公众号文章目录))
+[返回文章目录](https://github.com/ccc013/AI_algorithm_notes#公众号文章目录)
 
 ## 数学
 
@@ -65,7 +63,7 @@
 
 
 
-[返回文章目录]((https://github.com/ccc013/AI_algorithm_notes#公众号文章目录))
+[返回文章目录](https://github.com/ccc013/AI_algorithm_notes#公众号文章目录)
 
 ## leetcode 练习
 
@@ -73,4 +71,4 @@
 
 
 
-[返回文章目录]((https://github.com/ccc013/AI_algorithm_notes#公众号文章目录))
+[返回文章目录](https://github.com/ccc013/AI_algorithm_notes#公众号文章目录)
