@@ -31,6 +31,7 @@
 
 - [01.目标检测入门学习笔记](http://mp.weixin.qq.com/s?__biz=MzkwMzEyNDgyMA==&mid=2247483668&idx=1&sn=653e6049b976913f90f4140792623974&chksm=c09a432ff7edca39734febf14c6229be1b4f6120901123b890ebbf5e3b3734d01c773b8f00cc&token=1492400943&lang=zh_CN#rd)
 - [11.神经网络不收敛怎么办？看看是不是这些原因](http://mp.weixin.qq.com/s?__biz=MzkwMzEyNDgyMA==&mid=2247483954&idx=1&sn=873e9116572112656f22d7c965b761c2&chksm=c09a4009f7edc91fa35bf166c228f0d70610f8a20502784e917da5fdc05b34964a2ac87fd22b&token=1492400943&lang=zh_CN#rd)
+- [12. 7 个有用的 PyTorch 技巧](https://mp.weixin.qq.com/s?__biz=MzkwMzEyNDgyMA==&mid=2247483982&idx=1&sn=4bb68edc5e2dc304fdeeb031144f6922&chksm=c09a4075f7edc963e89b8c2a685ba922c82743adda973e0367e0dda28b1ace7474fc1ff7fed5&token=1492400943&lang=zh_CN#rd)
 
 
 
