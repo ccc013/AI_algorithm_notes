@@ -40,6 +40,7 @@
 ## 机器学习
 
 - [06.机器学习基础--基本的概念](http://mp.weixin.qq.com/s?__biz=MzkwMzEyNDgyMA==&mid=2247483807&idx=1&sn=d9138985575fc1186c8991d65d341237&chksm=c09a43a4f7edcab25aa47b841cfed83c7a7bfec4831de2419cf7869b6c0acb3db736365f6019&token=1492400943&lang=zh_CN#rd)
+- [13. 基于Colab Pro & Google Drive的Kaggle实战](https://mp.weixin.qq.com/s/Spi0hUlm4POXdeV8nxPrZg)
 
 
 
