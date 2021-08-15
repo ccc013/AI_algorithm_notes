@@ -1,7 +1,7 @@
 # AI_algorithm_notes
 公众号：**AI 算法笔记**
 
-![](https://github.com/ccc013/AI_algorithm_notes/blob/main/qrcode_for_AI_Notes2.png)
+![](https://img-blog.csdnimg.cn/20210620155918137.jpeg#pic_center)
 
 
 
@@ -52,6 +52,7 @@
 - [08.基于 CNN+双向 LSTM 的搭配生成算法](http://mp.weixin.qq.com/s?__biz=MzkwMzEyNDgyMA==&mid=2247483874&idx=1&sn=ee302ebc030f0da7775328699af9128d&chksm=c09a43d9f7edcacf76df3961c438c9e3a627dc8a91aaafb6303f6b5345e3336dec77b90d296a&token=1492400943&lang=zh_CN#rd)
 - [09. MCN 搭配评价模型论文笔记](http://mp.weixin.qq.com/s?__biz=MzkwMzEyNDgyMA==&mid=2247483926&idx=1&sn=9f9cb2c4abf24ddfa8692940555c5733&chksm=c09a402df7edc93b63245282815d9d0f29bd2d24d414d60e31031b666e7282dd3d892623a480&token=1492400943&lang=zh_CN#rd)
 - [10.弱监督条件下基于相似性条件学习的服饰搭配生成](http://mp.weixin.qq.com/s?__biz=MzkwMzEyNDgyMA==&mid=2247483945&idx=1&sn=483d4244460e482c7cecda1dd7ea5d9e&chksm=c09a4012f7edc9046e009843d7094f869ff72d32a0168a20f8e8dd3245c08e1935c734f46ca7&token=1492400943&lang=zh_CN#rd)
+- [14. Focal Loss 论文笔记](https://mp.weixin.qq.com/s/6ivSPTfF_h6eMyE7h18hUQ)
 
 
 
